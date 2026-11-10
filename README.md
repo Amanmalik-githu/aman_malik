@@ -27,3 +27,26 @@ insights and solving real-world problems.
 To develop practical analytical skills
 through real-world projects and continuous
 learning.
+
+## 🎓 Education
+- Bachelor of Computer Applications (BCA)
+- IME College
+
+## 💻 Technical Skills
+- Python Programming (Beginner)
+- Object-Oriented Programming (Fundamentals)
+- Git & GitHub
+
+## 📚 Current Focus
+- Python Programming
+- Problem Solving
+- Data Analytics Fundamentals
+- Building Practical Projects
+
+## 🎯 Career Objective
+
+To develop strong technical and analytical skills and build practical solutions that solve real-world business problems.
+
+## 📌 Projects
+
+Practical projects will be added as they are developed, tested, and documented.
